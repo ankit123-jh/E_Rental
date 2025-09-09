@@ -8,7 +8,7 @@ import HomePage from './pages/homepage/HomePage';
 import AboutPage from './pages/aboutpage/AboutPage';
 import ProductPage from './pages/productspage/ProductPage';
 import RegisterPage from './pages/registerpage/RegisterPage';
-import MyContact from './pages/contact/contactpage';
+import MyContact from './pages/contact/ContactPage';
 
 
 // A new component that uses the useLocation hook
