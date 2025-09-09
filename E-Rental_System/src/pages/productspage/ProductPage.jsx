@@ -1,7 +1,8 @@
 import React from 'react'
 import Hero from './Hero';
-import Categories from './categories';
+import Categories from './Categories';
 import Products from './Products';
+
 
 function ProductPage() {
     return ( 
