@@ -5,7 +5,7 @@ function Products() {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
-        axios.get('http://localhost:8000/products')
+        axios.get('https://e-rental-xurz.onrender.com/products')
             .then(res => {
                 console.log(res);
                 setProducts(res.data);
